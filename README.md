@@ -24,7 +24,7 @@ The following courses can be installed by running the `init_swirl_courses.R`. Th
 2. Data Analysis
 6. Getting and Cleaning
 7. Exploratory Data Analysis
-8. Exploratory Data Analysis with `data.table` (*see next section*)
+8. Exploratory Data Analysis with `data.table` (*NOT SWIRL - see next section*)
 3. Mathematical Biostatistics Boot Camp (*time permitting*)
 5. Regression Models (*time permitting*)
 
