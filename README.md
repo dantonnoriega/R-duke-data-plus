@@ -10,14 +10,14 @@ Information about courses can be found on the swirl dev teams [github repo](http
 
 ## Recommended Course Completion Order
 
-The following courses can be installed by running the `init_swirl_courses.R`.
+The following courses can be installed by running the `init_swirl_courses.R`. The order of completion that will best suite Data+ students is as follows:
 
 1. R Programming Alt
-2. Data Analysis
-3. Mathematical Biostatistics Boot Camp
 4. Open Intro
+2. Data Analysis
 6. Getting and Cleaning
 7. Exploratory Data Analysis
+3. Mathematical Biostatistics Boot Camp
 5. Regression Models
 
 
