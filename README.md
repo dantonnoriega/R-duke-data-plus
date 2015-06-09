@@ -32,7 +32,7 @@ The following courses can be installed by running the `init_swirl_courses.R`. Th
 
 An introduction to using `data.table` for Exploratory Data Analysis can be found over at [David Robinson's R Data lessons page](http://varianceexplained.org/RData/).
 
-Complete [Lesson 4](http://varianceexplained.org/RData/lessons/lesson4/).
+Complete [Lesson 4 — Exploratory Data Analysis with `data.table`](http://varianceexplained.org/RData/lessons/lesson4/).
 
 ### More on `data.table`
 
