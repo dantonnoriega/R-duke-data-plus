@@ -34,3 +34,14 @@ An introduction to using `data.table` for Exploratory Data Analysis can be found
 
 Complete [Lesson 4](http://varianceexplained.org/RData/lessons/lesson4/).
 
+### More on `data.table`
+
+The `data.table` package is central to fast, efficient analysis of very large datasets aka Big Data. All the necessary documentation to learn more about `data.table` can be found [**here**](https://github.com/Rdatatable/data.table/wiki/Getting-started).
+
+It is recommended that Data+ students working with Big Data work through all the introductory vignettes.
+
+1. [Introduction to data.table](https://rawgit.com/wiki/Rdatatable/data.table/vignettes/datatable-intro-vignette.html)
+1. [Reference semantics](https://rawgit.com/wiki/Rdatatable/data.table/vignettes/datatable-reference-semantics.html)
+1. [Keys and fast binary search based subsets](https://rawgit.com/wiki/Rdatatable/data.table/vignettes/datatable-keys-fast-subset.html)
+
+One can also work through the [Quick start guide](https://github.com/Rdatatable/data.table/wiki/vignettes/datatable-intro.pdf).
