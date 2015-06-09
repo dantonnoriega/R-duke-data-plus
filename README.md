@@ -2,18 +2,16 @@
 
 Below outlines some materials aimed in helping Data+ students gain the required R expertise to do basic Data Science. There are two major components:
 
-1) R basics with `swirl`
-2) The `data.table` package
+1. R basics with `swirl`
+2. The `data.table` package
 
 ## R Scripts
 
-`init_swirl_courses.R` — running this script installs `swirl` and the recommended R courses.
-
----
+`init_swirl_courses.R` — running this script will install `swirl` and the recommended courses.
 
 ## `swirl`
 
-Learning R will be self-paced using an interactive console program called [swirl](http://swirlstats.com/). 
+Learning the basics of R will be self-paced using an interactive console program called [swirl](http://swirlstats.com/). 
 
 Information about courses can be found on the swirl dev teams [github repo](https://github.com/swirldev/swirl_courses#swirl-courses).
 

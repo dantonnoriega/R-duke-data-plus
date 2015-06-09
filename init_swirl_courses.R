@@ -2,6 +2,7 @@
 ##  -- run this script to install all the beginner, intermediate, and advanced courses for swirl
 
 install.packages("swirl", dep = T)
+
 library(swirl)
 
 # create vector of courses
