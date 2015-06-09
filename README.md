@@ -11,7 +11,7 @@ Below outlines some materials aimed in helping Data+ students gain the required 
 
 ## `swirl` courses
 
-Learning the basics of R will be self-paced using an interactive console program called [swirl](http://swirlstats.com/). 
+Learning the basics of R will be self-paced using an interactive console program called [swirl](http://swirlstats.com/). Basic information on how to install and get swirl running can be found [**here**](http://swirlstats.com/students.html).
 
 Information about courses can be found on the swirl dev teams [github repo](https://github.com/swirldev/swirl_courses#swirl-courses).
 
