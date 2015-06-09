@@ -9,7 +9,7 @@ Below outlines some materials aimed in helping Data+ students gain the required 
 
 `init_swirl_courses.R` — running this script will install `swirl` and the recommended courses.
 
-## `swirl`
+## `swirl` courses
 
 Learning the basics of R will be self-paced using an interactive console program called [swirl](http://swirlstats.com/). 
 
@@ -24,10 +24,13 @@ The following courses can be installed by running the `init_swirl_courses.R`. Th
 2. Data Analysis
 6. Getting and Cleaning
 7. Exploratory Data Analysis
-3. Mathematical Biostatistics Boot Camp
-5. Regression Models
+8. Exploratory Data Analysis with `data.table` (*see next section*)
+3. Mathematical Biostatistics Boot Camp (*time permitting*)
+5. Regression Models (*time permitting*)
 
-## `data.table` package
+## Exploratory Data Analysis with `data.table`
 
-Coming soon.
+An introduction to using `data.table` for Exploratory Data Analysis can be found over at [David Robinson's R Data lessons page](http://varianceexplained.org/RData/).
+
+Complete [Lesson 4](http://varianceexplained.org/RData/lessons/lesson4/).
 
