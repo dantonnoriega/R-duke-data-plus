@@ -1,5 +1,11 @@
 # R Boot Camp for Duke Data+ Students
 
+---
+
+**THIS IS A LIVE DOCUMENT.** It will be updated until deemed satisfactory. Check back frequently or refresh to load any new changes and additions.
+
+---
+
 Below outlines some materials aimed in helping Data+ students gain the required R expertise to do basic Data Science. There are two major components:
 
 1. R basics with `swirl`
@@ -34,6 +40,8 @@ An introduction to using `data.table` for Exploratory Data Analysis can be found
 
 Complete [Lesson 4 — Exploratory Data Analysis with `data.table`](http://varianceexplained.org/RData/lessons/lesson4/).
 
+Feel free to review by doing the other lessons.
+
 ### More on `data.table`
 
 The `data.table` package is central to fast, efficient analysis of very large datasets aka Big Data. All the necessary documentation to learn more about `data.table` can be found [**here**](https://github.com/Rdatatable/data.table/wiki/Getting-started).
@@ -45,3 +53,9 @@ It is recommended that Data+ students working with Big Data work through all the
 1. [Keys and fast binary search based subsets](https://rawgit.com/wiki/Rdatatable/data.table/vignettes/datatable-keys-fast-subset.html)
 
 One can also work through the [Quick start guide](https://github.com/Rdatatable/data.table/wiki/vignettes/datatable-intro.pdf).
+
+## [DataCamp.com](https://www.datacamp.com/): Courses on R & Data Science
+
+[DataCamp](https://www.datacamp.com/courses) has numerous courses (some totally free, some free-to-start) on learning R and using R to do Data Science.
+
+Recommended course — [Data Analysis the `data.table` Way](https://www.datacamp.com/courses/data-table-data-manipulation-r-tutorial). It is free to start. 
