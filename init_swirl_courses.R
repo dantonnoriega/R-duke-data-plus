@@ -9,8 +9,11 @@ library(swirl)
 courses <- c("Data_Analysis", "Exploratory_Data_Analysis", "Getting_and_Cleaning_Data", "Mathematical_Biostatistics_Boot_Camp",
     "Open_Intro", "R_Programming_Alt", "Regression_Models", "Statistical_Inference")
 
-# install courses
+# install swirl courses
 invisible(lapply(courses, install_from_swirl))
+
+# install varianceexplained courses
+install_course_github("dgrtwo", "RData", branch="quizzes", multi=TRUE)
 
 # run swirl
 # recommended that one do the "R_Programming_Alt" class
