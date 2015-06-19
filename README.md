@@ -59,3 +59,16 @@ One can also work through the [Quick start guide](https://github.com/Rdatatable/
 [DataCamp](https://www.datacamp.com/courses) has numerous courses (some totally free, some free-to-start) on learning R and using R to do Data Science.
 
 Recommended course — [Data Analysis the `data.table` Way](https://www.datacamp.com/courses/data-table-data-manipulation-r-tutorial). It is free to start. 
+
+## General R Resources
+
+Sample code and solutions for common tasks:
+
+- [Cookbook-R](http://www.cookbook-r.com/)
+- [Quick-R](http://www.statmethods.net/)
+
+For a more advanced understanding of R:
+
+- [Advanced-R](http://adv-r.had.co.nz/) by Hadley Wickham
+- Solutions to some of the problems, which are VERY informative, can be found [here](https://github.com/aammd/UBCadv-r).
+
